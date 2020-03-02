@@ -1,9 +1,9 @@
-import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Step;
 import io.qameta.allure.Story;
 import org.testng.annotations.Test;
 import wrikeTests.utilities.GeneratedEmail;
 
+import static com.codeborne.selenide.Selenide.open;
 import static util.AllureSelenide.makeScreenshot;
 import static wrikeTests.enums.QASectionElements.*;
 import static wrikeTests.enums.SimpleWrikeTestData.COMMENTS;
@@ -15,7 +15,7 @@ public class SimpleWrikeTest extends BaseTest{
     @Story("Simple Wrike Test (Test Case: 1)")
     @Test
     public void tests() {
-        step("Open url: wrike.com;", ()->Selenide.open(SITE_URL.value));
+        step("Open url: wrike.com;", ()->open(SITE_URL.value));
         step("Click \"Get started for free\" button near \"Login\" button", ()->indexPage.clickGetStartedForFree());
         step("Fill in the email field with random generated number of email", ()->indexPage.fillEmailField(GeneratedEmail.createRandomEmail()));
         step("Click on \"Create my Wrike account\" button + check with assertion that you are moved to the next page", ()->indexPage.clickCreateWrikeAccountButton());
