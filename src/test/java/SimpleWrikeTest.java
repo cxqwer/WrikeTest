@@ -1,58 +1,35 @@
-
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.PageFactory;
-import wrikeTests.pages.*;
+import com.codeborne.selenide.Selenide;
+import io.qameta.allure.Step;
+import io.qameta.allure.Story;
+import org.testng.annotations.Test;
 import wrikeTests.utilities.GeneratedEmail;
-import org.testng.annotations.*;
-import static java.lang.System.setProperty;
+
+import static util.AllureSelenide.makeScreenshot;
 import static wrikeTests.enums.QASectionElements.*;
-import static wrikeTests.enums.SimpleWrikeTestData.*;
+import static wrikeTests.enums.SimpleWrikeTestData.COMMENTS;
+import static wrikeTests.enums.SimpleWrikeTestData.SITE_URL;
 import static wrikeTests.enums.SocialMedias.TWITER;
 
-public class SimpleWrikeTest {
-    private WebDriver driver;
-    private IndexPage indexPage;
-    private ResendPage resendPage;
+public class SimpleWrikeTest extends BaseTest{
 
-    @BeforeSuite
-    public void beforeSuite() {
-        setProperty(CHROM_WEB_DRIVER.value, CHROM_WEB_DRIVER_PATH.value);
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        indexPage = PageFactory.initElements(driver, IndexPage.class);
-        resendPage = PageFactory.initElements(driver, ResendPage.class);
-    }
-
-    @AfterSuite
-    public void afterSuite() {
-        driver.close();
-    }
-
+    @Story("Simple Wrike Test (Test Case: 1)")
     @Test
     public void tests() {
-        //1 Open url: wrike.com;
+        step("Open url: wrike.com;", ()->Selenide.open(SITE_URL.value));
+        step("Click \"Get started for free\" button near \"Login\" button", ()->indexPage.clickGetStartedForFree());
+        step("Fill in the email field with random generated number of email", ()->indexPage.fillEmailField(GeneratedEmail.createRandomEmail()));
+        step("Click on \"Create my Wrike account\" button + check with assertion that you are moved to the next page", ()->indexPage.clickCreateWrikeAccountButton());
+        step("Check Moved Resend Page", ()->resendPage.checkMovedResendPage());
+        step("Fill in the Q&A section at the left part of page + check with assertion that your answers are submitted", ()->resendPage.fillForm(VERY_INTERESTED, SIX_TO_FIFTEEN, OTHER, COMMENTS));
+        step("Click submit", ()->resendPage.submit());
+        step("Click and check \"Resend email\"", ()->resendPage.ResendEmail());
+        step("Check that section \"Follow us\"", ()->resendPage.checkFooterContainElement(TWITER));
+    }
 
-        indexPage.open(SITE_URL);
-
-        //2 Click "Get started for free" button near "Login" button;
-        indexPage.clickGetStartedForFree();
-
-        //3 Fill in the email field with random generated number of email;
-        indexPage.fillEmailField(GeneratedEmail.createRandomEmail());
-
-        //4 Click on "Create my Wrike account" button + check with assertion that you are moved to the next page;
-        indexPage.clickCreateWrikeAccountButton();
-        resendPage.checkMovedResendPage();
-
-        //5 Fill in the Q&A section at the left part of page + check with assertion that your answers are submitted;
-        resendPage.fillForm(VERY_INTERESTED, SIX_TO_FIFTEEN, OTHER, COMMENTS);
-        resendPage.submit();
-
-        //6 Click and check "Resend email";
-        resendPage.ResendEmail();
-
-        //7 Check that section "Follow us";
-        resendPage.checkFooterContainElement(TWITER);
+    @Step("{0}")
+    public void step(String title, Runnable code) {
+        System.out.println(title);
+        code.run();
+        makeScreenshot();
     }
 }
