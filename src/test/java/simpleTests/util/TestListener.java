@@ -1,4 +1,4 @@
-package wrikeTests.runner;
+package simpleTests.util;
 
 import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Allure;

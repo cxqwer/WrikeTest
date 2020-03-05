@@ -1,16 +1,16 @@
-package wrikeTests.steps;
+package simpleTests.steps;
 
 import io.cucumber.java.ru.И;
 import io.cucumber.java.ru.Когда;
 import io.cucumber.java.ru.Тогда;
-import utilities.GeneratedEmail;
+import util.GeneratedEmail;
 
-import static wrikeTests.enums.QASectionElements.*;
-import static wrikeTests.enums.SimpleWrikeTestData.COMMENTS;
-import static wrikeTests.enums.SocialMedias.TWITER;
-import static wrikeTests.runner.RunnerTest.indexPage;
-import static wrikeTests.runner.RunnerTest.resendPage;
-import static wrikeTests.runner.TestListener.makeScreenshot;
+import static simpleTests.enums.QASectionElements.*;
+import static simpleTests.enums.SocialMedias.TWITER;
+import static simpleTests.steps.RunnerTest.indexPage;
+import static simpleTests.steps.RunnerTest.resendPage;
+import static simpleTests.util.Constance.COMMENTS;
+import static simpleTests.util.TestListener.makeScreenshot;
 
 public class WrikeSteps {
 

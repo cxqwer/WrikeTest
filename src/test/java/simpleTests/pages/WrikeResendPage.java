@@ -1,27 +1,21 @@
-package wrikeTests.pages;
+package simpleTests.pages;
 
 import com.codeborne.selenide.ElementsCollection;
 import com.codeborne.selenide.SelenideElement;
-import io.qameta.allure.Feature;
-import io.qameta.allure.Story;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import wrikeTests.enums.QASectionElements;
-import wrikeTests.enums.SimpleWrikeTestData;
-import wrikeTests.enums.SocialMedias;
+import simpleTests.enums.QASectionElements;
+import simpleTests.enums.SocialMedias;
 
 import static com.codeborne.selenide.Selenide.*;
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
-import static wrikeTests.enums.SimpleWrikeTestData.RESEND_TITLE;
+import static simpleTests.util.Constance.RESEND_TITLE;
 
-@Feature("Resend page")
-@Story("Fill Q&A section and check interface")
-
-public class ResendPage {
+public class WrikeResendPage {
     private ElementsCollection interestInSolutions = $$x("//div[@data-code='interest_in_solution']//button[@class='switch__button']");
 
     private ElementsCollection teamMembers = $$x("//div[@data-code='team_members']//button[@class='switch__button']");
@@ -44,7 +38,7 @@ public class ResendPage {
         WebElement element = (new WebDriverWait(getWebDriver(), 10)).until(ExpectedConditions
                 .visibilityOfElementLocated(By.xpath("//div[@class='wg-cell wg-cell--md-6 wg-cell--lg-7']")));
         assertTrue(element.isDisplayed());
-        assertEquals(RESEND_TITLE.value, getWebDriver().getTitle());
+        assertEquals(RESEND_TITLE, getWebDriver().getTitle());
     }
 
     public void ResendEmail() {
@@ -81,9 +75,9 @@ public class ResendPage {
     }
 
     public void fillForm(QASectionElements interestInSolution, QASectionElements teamMember,
-                         QASectionElements manageWork, SimpleWrikeTestData comment) {
+                         QASectionElements manageWork, String comment) {
         fillForm(interestInSolution, teamMember, manageWork);
-        otherTextField.sendKeys(comment.value);
+        otherTextField.sendKeys(comment);
     }
 
     public void submit() {

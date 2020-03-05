@@ -1,4 +1,4 @@
-package wrikeTests.enums;
+package simpleTests.enums;
 
 public enum QASectionElements {
     VERY_INTERESTED(0),

@@ -1,4 +1,4 @@
-package wrikeTests.enums;
+package simpleTests.enums;
 
 public enum SocialMedias {
     TWITER("https://twitter.com/wrike","footer-icons.symbol.svg?v2#twitter"),

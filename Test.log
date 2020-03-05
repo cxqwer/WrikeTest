@@ -33,3 +33,342 @@
 05-03-2020 11:24:03 INFO  Hooks:29 - ------------------------------------------------------------
 05-03-2020 11:24:03 INFO  Hooks:30 - �������� 'Test Case 1. �����������. �������� � �������� �����' - PASSED
 05-03-2020 11:24:03 INFO  Hooks:31 - ------------------------------------------------------------
+05-03-2020 13:12:57 INFO  Hooks:36 - Start video recording the test video Test Case 1. �����������. �������� � �������� �����
+05-03-2020 13:12:57 INFO  Hooks:28 - ���� � 1
+05-03-2020 13:12:57 INFO  Hooks:29 - ------------------------------------------------------------
+05-03-2020 13:12:57 INFO  Hooks:30 - �������� - 'Test Case 1. �����������. �������� � �������� �����'
+05-03-2020 13:12:57 INFO  Hooks:31 - ------------------------------------------------------------
+05-03-2020 13:13:30 INFO  Hooks:58 - The video was successfully attached to the report
+05-03-2020 13:13:30 INFO  Hooks:42 - ------------------------------------------------------------
+05-03-2020 13:13:30 INFO  Hooks:43 - �������� 'Test Case 1. �����������. �������� � �������� �����' - PASSED
+05-03-2020 13:13:30 INFO  Hooks:44 - ------------------------------------------------------------
+05-03-2020 13:16:23 INFO  Hooks:37 - Start video recording the test video Test Case 1. �����������. �������� � �������� �����
+05-03-2020 13:16:23 INFO  Hooks:29 - ���� � 1
+05-03-2020 13:16:23 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 13:16:23 INFO  Hooks:31 - �������� - 'Test Case 1. �����������. �������� � �������� �����'
+05-03-2020 13:16:23 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 13:16:55 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 13:16:55 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 13:16:55 INFO  Hooks:44 - �������� 'Test Case 1. �����������. �������� � �������� �����' - PASSED
+05-03-2020 13:16:55 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 13:30:29 INFO  Hooks:29 - Тест № 1
+05-03-2020 13:30:29 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 13:30:29 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 13:30:29 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 13:30:29 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 13:31:02 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 13:31:02 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - PASSED
+05-03-2020 13:31:02 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 13:31:04 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 13:59:01 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 13:59:01 INFO  Hooks:29 - Тест № 1
+05-03-2020 13:59:01 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 13:59:01 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 13:59:01 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 13:59:01 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 13:59:01 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 13:59:01 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - FAILED
+05-03-2020 13:59:01 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 13:59:28 INFO  Hooks:29 - Тест № 1
+05-03-2020 13:59:28 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 13:59:28 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 13:59:28 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 13:59:28 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 13:59:28 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 13:59:28 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - FAILED
+05-03-2020 13:59:28 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 13:59:28 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 14:01:32 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 14:01:32 INFO  Hooks:29 - Тест № 1
+05-03-2020 14:01:32 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 14:01:32 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 14:01:32 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 14:02:08 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 14:02:08 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 14:02:08 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - PASSED
+05-03-2020 14:02:08 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 15:21:33 INFO  Hooks:29 - Тест № 1
+05-03-2020 15:21:33 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 15:21:33 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 15:21:33 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 15:21:33 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 15:22:06 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 15:22:06 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - PASSED
+05-03-2020 15:22:06 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 15:22:08 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 15:23:08 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 15:23:08 INFO  Hooks:29 - Тест № 1
+05-03-2020 15:23:08 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 15:23:08 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 15:23:08 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 15:23:38 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 15:23:38 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 15:23:38 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - FAILED
+05-03-2020 15:23:38 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 15:26:55 INFO  Hooks:29 - Тест № 1
+05-03-2020 15:26:55 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 15:26:55 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 15:26:55 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 15:26:55 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 15:27:14 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 15:27:14 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - FAILED
+05-03-2020 15:27:14 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 15:27:15 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 15:33:26 INFO  Hooks:29 - Тест № 1
+05-03-2020 15:33:26 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 15:33:26 INFO  Hooks:31 - Сценарий - 'Test Case 1. Авторизация. Открытие и отправка формы'
+05-03-2020 15:33:26 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 15:33:26 INFO  Hooks:37 - Start video recording the test video Test Case 1. Авторизация. Открытие и отправка формы
+05-03-2020 15:33:27 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+05-03-2020 15:33:27 DEBUG OpenSsl:71 - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+05-03-2020 15:33:27 DEBUG ImpersonatingMitmManager:185 - Allowed ciphers for proxy connections to upstream servers (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 15:33:27 DEBUG ImpersonatingMitmManager:188 - Allowed ciphers for client connections to proxy (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 15:33:27 DEBUG ServerGroup:88 - UDT provider not found on classpath. UDT transport will not be available.
+05-03-2020 15:33:27 DEBUG PlatformDependent:71 - Platform: Windows
+05-03-2020 15:33:27 DEBUG PlatformDependent0:76 - -Dio.netty.noUnsafe: false
+05-03-2020 15:33:27 DEBUG PlatformDependent0:76 - Java version: 8
+05-03-2020 15:33:27 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.theUnsafe: available
+05-03-2020 15:33:27 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+05-03-2020 15:33:27 DEBUG PlatformDependent0:71 - java.nio.Buffer.address: available
+05-03-2020 15:33:27 DEBUG PlatformDependent0:71 - direct buffer constructor: available
+05-03-2020 15:33:27 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: available, true
+05-03-2020 15:33:27 DEBUG PlatformDependent0:71 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+05-03-2020 15:33:27 DEBUG PlatformDependent0:76 - java.nio.DirectByteBuffer.<init>(long, int): available
+05-03-2020 15:33:27 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+05-03-2020 15:33:27 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: C:\Users\adchebot\AppData\Local\Temp (java.io.tmpdir)
+05-03-2020 15:33:27 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+05-03-2020 15:33:27 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+05-03-2020 15:33:27 DEBUG PlatformDependent:76 - -Dio.netty.maxDirectMemory: 7604273152 bytes
+05-03-2020 15:33:27 DEBUG PlatformDependent:76 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+05-03-2020 15:33:27 DEBUG CleanerJava6:71 - java.nio.ByteBuffer.cleaner(): available
+05-03-2020 15:33:27 INFO  DefaultHttpProxyServer:495 - Starting proxy at address: 0.0.0.0/0.0.0.0:3128
+05-03-2020 15:33:27 DEBUG ServerGroup:136 - Initializing thread pools for TCP with 2 acceptor threads, 8 incoming worker threads, and 8 outgoing worker threads
+05-03-2020 15:33:27 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 16
+05-03-2020 15:33:27 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+05-03-2020 15:33:27 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+05-03-2020 15:33:27 DEBUG PlatformDependent:71 - org.jctools-core.MpscChunkedArrayQueue: available
+05-03-2020 15:33:27 INFO  DefaultHttpProxyServer:524 - Proxy listening with TCP transport
+05-03-2020 15:33:27 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+05-03-2020 15:33:27 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+05-03-2020 15:33:27 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+05-03-2020 15:33:27 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+05-03-2020 15:33:27 DEBUG ByteBufUtil:76 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+05-03-2020 15:33:28 DEBUG NetUtil:86 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+05-03-2020 15:33:28 DEBUG NetUtil:81 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+05-03-2020 15:33:28 INFO  DefaultHttpProxyServer:559 - Proxy started at address: /0:0:0:0:0:0:0:0:3128
+05-03-2020 15:33:47 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 15:33:47 INFO  Hooks:44 - Сценарий 'Test Case 1. Авторизация. Открытие и отправка формы' - FAILED
+05-03-2020 15:33:47 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 15:33:48 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 15:33:48 INFO  DefaultHttpProxyServer:436 - Shutting down proxy server immediately (non-graceful)
+05-03-2020 15:33:48 INFO  DefaultHttpProxyServer:469 - Closing all channels (non-graceful)
+05-03-2020 15:33:48 DEBUG ServerGroup:191 - Proxy server unregistered from ServerGroup. No proxy servers remain registered, so shutting down ServerGroup.
+05-03-2020 15:33:48 INFO  ServerGroup:212 - Shutting down server group event loops (non-graceful)
+05-03-2020 15:33:48 DEBUG ServerGroup:242 - Done shutting down server group
+05-03-2020 15:33:48 INFO  DefaultHttpProxyServer:450 - Done shutting down proxy server
+05-03-2020 15:56:19 INFO  Hooks:29 - Тест № 1
+05-03-2020 15:56:19 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 15:56:19 INFO  Hooks:31 - Сценарий - 'Test Case 1. Выполнение поиска'
+05-03-2020 15:56:19 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 15:56:20 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+05-03-2020 15:56:20 DEBUG OpenSsl:71 - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+05-03-2020 15:56:20 DEBUG ImpersonatingMitmManager:185 - Allowed ciphers for proxy connections to upstream servers (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 15:56:20 DEBUG ImpersonatingMitmManager:188 - Allowed ciphers for client connections to proxy (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 15:56:20 DEBUG ServerGroup:88 - UDT provider not found on classpath. UDT transport will not be available.
+05-03-2020 15:56:20 DEBUG PlatformDependent:71 - Platform: Windows
+05-03-2020 15:56:20 DEBUG PlatformDependent0:76 - -Dio.netty.noUnsafe: false
+05-03-2020 15:56:20 DEBUG PlatformDependent0:76 - Java version: 8
+05-03-2020 15:56:20 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.theUnsafe: available
+05-03-2020 15:56:20 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+05-03-2020 15:56:20 DEBUG PlatformDependent0:71 - java.nio.Buffer.address: available
+05-03-2020 15:56:20 DEBUG PlatformDependent0:71 - direct buffer constructor: available
+05-03-2020 15:56:20 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: available, true
+05-03-2020 15:56:20 DEBUG PlatformDependent0:71 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+05-03-2020 15:56:20 DEBUG PlatformDependent0:76 - java.nio.DirectByteBuffer.<init>(long, int): available
+05-03-2020 15:56:20 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+05-03-2020 15:56:20 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: C:\Users\adchebot\AppData\Local\Temp (java.io.tmpdir)
+05-03-2020 15:56:20 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+05-03-2020 15:56:20 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+05-03-2020 15:56:20 DEBUG PlatformDependent:76 - -Dio.netty.maxDirectMemory: 7604273152 bytes
+05-03-2020 15:56:20 DEBUG PlatformDependent:76 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+05-03-2020 15:56:20 DEBUG CleanerJava6:71 - java.nio.ByteBuffer.cleaner(): available
+05-03-2020 15:56:20 INFO  DefaultHttpProxyServer:495 - Starting proxy at address: 0.0.0.0/0.0.0.0:3128
+05-03-2020 15:56:20 DEBUG ServerGroup:136 - Initializing thread pools for TCP with 2 acceptor threads, 8 incoming worker threads, and 8 outgoing worker threads
+05-03-2020 15:56:20 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 16
+05-03-2020 15:56:20 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+05-03-2020 15:56:20 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+05-03-2020 15:56:20 DEBUG PlatformDependent:71 - org.jctools-core.MpscChunkedArrayQueue: available
+05-03-2020 15:56:20 INFO  DefaultHttpProxyServer:524 - Proxy listening with TCP transport
+05-03-2020 15:56:20 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+05-03-2020 15:56:20 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+05-03-2020 15:56:20 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+05-03-2020 15:56:20 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+05-03-2020 15:56:20 DEBUG ByteBufUtil:76 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+05-03-2020 15:56:20 DEBUG NetUtil:86 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+05-03-2020 15:56:20 DEBUG NetUtil:81 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+05-03-2020 15:56:20 INFO  DefaultHttpProxyServer:559 - Proxy started at address: /0:0:0:0:0:0:0:0:3128
+05-03-2020 15:56:38 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 15:56:38 INFO  Hooks:44 - Сценарий 'Test Case 1. Выполнение поиска' - FAILED
+05-03-2020 15:56:38 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 15:56:39 INFO  DefaultHttpProxyServer:436 - Shutting down proxy server immediately (non-graceful)
+05-03-2020 15:56:39 INFO  DefaultHttpProxyServer:469 - Closing all channels (non-graceful)
+05-03-2020 15:56:39 DEBUG ServerGroup:191 - Proxy server unregistered from ServerGroup. No proxy servers remain registered, so shutting down ServerGroup.
+05-03-2020 15:56:39 INFO  ServerGroup:212 - Shutting down server group event loops (non-graceful)
+05-03-2020 15:56:39 DEBUG ServerGroup:242 - Done shutting down server group
+05-03-2020 15:56:39 INFO  DefaultHttpProxyServer:450 - Done shutting down proxy server
+05-03-2020 16:14:38 INFO  Hooks:29 - Тест № 1
+05-03-2020 16:14:38 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 16:14:38 INFO  Hooks:31 - Сценарий - 'Test Case 1. Поиск. Результаты поиска'
+05-03-2020 16:14:38 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 16:14:38 INFO  Hooks:37 - Start video recording the test video Test Case 1. Поиск. Результаты поиска
+05-03-2020 16:14:39 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+05-03-2020 16:14:39 DEBUG OpenSsl:71 - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+05-03-2020 16:14:39 DEBUG ImpersonatingMitmManager:185 - Allowed ciphers for proxy connections to upstream servers (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 16:14:39 DEBUG ImpersonatingMitmManager:188 - Allowed ciphers for client connections to proxy (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 16:14:39 DEBUG ServerGroup:88 - UDT provider not found on classpath. UDT transport will not be available.
+05-03-2020 16:14:39 DEBUG PlatformDependent:71 - Platform: Windows
+05-03-2020 16:14:39 DEBUG PlatformDependent0:76 - -Dio.netty.noUnsafe: false
+05-03-2020 16:14:39 DEBUG PlatformDependent0:76 - Java version: 8
+05-03-2020 16:14:39 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.theUnsafe: available
+05-03-2020 16:14:39 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+05-03-2020 16:14:39 DEBUG PlatformDependent0:71 - java.nio.Buffer.address: available
+05-03-2020 16:14:39 DEBUG PlatformDependent0:71 - direct buffer constructor: available
+05-03-2020 16:14:39 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: available, true
+05-03-2020 16:14:39 DEBUG PlatformDependent0:71 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+05-03-2020 16:14:39 DEBUG PlatformDependent0:76 - java.nio.DirectByteBuffer.<init>(long, int): available
+05-03-2020 16:14:39 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+05-03-2020 16:14:39 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: C:\Users\adchebot\AppData\Local\Temp (java.io.tmpdir)
+05-03-2020 16:14:39 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+05-03-2020 16:14:39 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+05-03-2020 16:14:39 DEBUG PlatformDependent:76 - -Dio.netty.maxDirectMemory: 7604273152 bytes
+05-03-2020 16:14:39 DEBUG PlatformDependent:76 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+05-03-2020 16:14:39 DEBUG CleanerJava6:71 - java.nio.ByteBuffer.cleaner(): available
+05-03-2020 16:14:39 INFO  DefaultHttpProxyServer:495 - Starting proxy at address: 0.0.0.0/0.0.0.0:3128
+05-03-2020 16:14:39 DEBUG ServerGroup:136 - Initializing thread pools for TCP with 2 acceptor threads, 8 incoming worker threads, and 8 outgoing worker threads
+05-03-2020 16:14:39 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 16
+05-03-2020 16:14:39 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+05-03-2020 16:14:39 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+05-03-2020 16:14:39 DEBUG PlatformDependent:71 - org.jctools-core.MpscChunkedArrayQueue: available
+05-03-2020 16:14:39 INFO  DefaultHttpProxyServer:524 - Proxy listening with TCP transport
+05-03-2020 16:14:39 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+05-03-2020 16:14:39 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+05-03-2020 16:14:39 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+05-03-2020 16:14:39 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+05-03-2020 16:14:39 DEBUG ByteBufUtil:76 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+05-03-2020 16:14:39 DEBUG NetUtil:86 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+05-03-2020 16:14:39 DEBUG NetUtil:81 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+05-03-2020 16:14:39 INFO  DefaultHttpProxyServer:559 - Proxy started at address: /0:0:0:0:0:0:0:0:3128
+05-03-2020 16:15:11 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 16:15:11 INFO  Hooks:44 - Сценарий 'Test Case 1. Поиск. Результаты поиска' - FAILED
+05-03-2020 16:15:11 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 16:15:12 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 16:15:12 INFO  DefaultHttpProxyServer:436 - Shutting down proxy server immediately (non-graceful)
+05-03-2020 16:15:12 INFO  DefaultHttpProxyServer:469 - Closing all channels (non-graceful)
+05-03-2020 16:15:12 DEBUG ServerGroup:191 - Proxy server unregistered from ServerGroup. No proxy servers remain registered, so shutting down ServerGroup.
+05-03-2020 16:15:12 INFO  ServerGroup:212 - Shutting down server group event loops (non-graceful)
+05-03-2020 16:15:12 DEBUG ServerGroup:242 - Done shutting down server group
+05-03-2020 16:15:12 INFO  DefaultHttpProxyServer:450 - Done shutting down proxy server
+05-03-2020 16:15:21 INFO  Hooks:37 - Start video recording the test video Test Case 1. Поиск. Результаты поиска
+05-03-2020 16:15:21 INFO  Hooks:29 - Тест № 1
+05-03-2020 16:15:21 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 16:15:21 INFO  Hooks:31 - Сценарий - 'Test Case 1. Поиск. Результаты поиска'
+05-03-2020 16:15:21 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 16:15:22 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+05-03-2020 16:15:22 DEBUG OpenSsl:71 - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+05-03-2020 16:15:22 DEBUG ImpersonatingMitmManager:185 - Allowed ciphers for proxy connections to upstream servers (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 16:15:22 DEBUG ImpersonatingMitmManager:188 - Allowed ciphers for client connections to proxy (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 16:15:22 DEBUG ServerGroup:88 - UDT provider not found on classpath. UDT transport will not be available.
+05-03-2020 16:15:22 DEBUG PlatformDependent:71 - Platform: Windows
+05-03-2020 16:15:22 DEBUG PlatformDependent0:76 - -Dio.netty.noUnsafe: false
+05-03-2020 16:15:22 DEBUG PlatformDependent0:76 - Java version: 8
+05-03-2020 16:15:22 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.theUnsafe: available
+05-03-2020 16:15:22 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+05-03-2020 16:15:22 DEBUG PlatformDependent0:71 - java.nio.Buffer.address: available
+05-03-2020 16:15:22 DEBUG PlatformDependent0:71 - direct buffer constructor: available
+05-03-2020 16:15:22 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: available, true
+05-03-2020 16:15:22 DEBUG PlatformDependent0:71 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+05-03-2020 16:15:22 DEBUG PlatformDependent0:76 - java.nio.DirectByteBuffer.<init>(long, int): available
+05-03-2020 16:15:22 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+05-03-2020 16:15:22 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: C:\Users\adchebot\AppData\Local\Temp (java.io.tmpdir)
+05-03-2020 16:15:22 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+05-03-2020 16:15:22 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+05-03-2020 16:15:22 DEBUG PlatformDependent:76 - -Dio.netty.maxDirectMemory: 7604273152 bytes
+05-03-2020 16:15:22 DEBUG PlatformDependent:76 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+05-03-2020 16:15:22 DEBUG CleanerJava6:71 - java.nio.ByteBuffer.cleaner(): available
+05-03-2020 16:15:22 INFO  DefaultHttpProxyServer:495 - Starting proxy at address: 0.0.0.0/0.0.0.0:3128
+05-03-2020 16:15:22 DEBUG ServerGroup:136 - Initializing thread pools for TCP with 2 acceptor threads, 8 incoming worker threads, and 8 outgoing worker threads
+05-03-2020 16:15:22 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 16
+05-03-2020 16:15:22 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+05-03-2020 16:15:22 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+05-03-2020 16:15:22 DEBUG PlatformDependent:71 - org.jctools-core.MpscChunkedArrayQueue: available
+05-03-2020 16:15:22 INFO  DefaultHttpProxyServer:524 - Proxy listening with TCP transport
+05-03-2020 16:15:22 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+05-03-2020 16:15:22 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+05-03-2020 16:15:22 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+05-03-2020 16:15:22 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+05-03-2020 16:15:22 DEBUG ByteBufUtil:76 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+05-03-2020 16:15:23 DEBUG NetUtil:86 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+05-03-2020 16:15:23 DEBUG NetUtil:81 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+05-03-2020 16:15:23 INFO  DefaultHttpProxyServer:559 - Proxy started at address: /0:0:0:0:0:0:0:0:3128
+05-03-2020 16:15:39 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 16:15:39 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 16:15:39 INFO  Hooks:44 - Сценарий 'Test Case 1. Поиск. Результаты поиска' - FAILED
+05-03-2020 16:15:39 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 16:15:41 INFO  DefaultHttpProxyServer:436 - Shutting down proxy server immediately (non-graceful)
+05-03-2020 16:15:41 INFO  DefaultHttpProxyServer:469 - Closing all channels (non-graceful)
+05-03-2020 16:15:41 DEBUG ServerGroup:191 - Proxy server unregistered from ServerGroup. No proxy servers remain registered, so shutting down ServerGroup.
+05-03-2020 16:15:41 INFO  ServerGroup:212 - Shutting down server group event loops (non-graceful)
+05-03-2020 16:15:41 DEBUG ServerGroup:242 - Done shutting down server group
+05-03-2020 16:15:41 INFO  DefaultHttpProxyServer:450 - Done shutting down proxy server
+05-03-2020 16:16:41 INFO  Hooks:29 - Тест № 1
+05-03-2020 16:16:41 INFO  Hooks:30 - ------------------------------------------------------------
+05-03-2020 16:16:41 INFO  Hooks:31 - Сценарий - 'Test Case 1. Поиск. Результаты поиска'
+05-03-2020 16:16:41 INFO  Hooks:32 - ------------------------------------------------------------
+05-03-2020 16:16:41 INFO  Hooks:37 - Start video recording the test video Test Case 1. Поиск. Результаты поиска
+05-03-2020 16:16:42 DEBUG InternalLoggerFactory:71 - Using SLF4J as the default logging framework
+05-03-2020 16:16:42 DEBUG OpenSsl:71 - netty-tcnative not in the classpath; OpenSslEngine will be unavailable.
+05-03-2020 16:16:42 DEBUG ImpersonatingMitmManager:185 - Allowed ciphers for proxy connections to upstream servers (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 16:16:42 DEBUG ImpersonatingMitmManager:188 - Allowed ciphers for client connections to proxy (some ciphers may not be available): [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+05-03-2020 16:16:42 DEBUG ServerGroup:88 - UDT provider not found on classpath. UDT transport will not be available.
+05-03-2020 16:16:42 DEBUG PlatformDependent:71 - Platform: Windows
+05-03-2020 16:16:42 DEBUG PlatformDependent0:76 - -Dio.netty.noUnsafe: false
+05-03-2020 16:16:42 DEBUG PlatformDependent0:76 - Java version: 8
+05-03-2020 16:16:42 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.theUnsafe: available
+05-03-2020 16:16:42 DEBUG PlatformDependent0:71 - sun.misc.Unsafe.copyMemory: available
+05-03-2020 16:16:42 DEBUG PlatformDependent0:71 - java.nio.Buffer.address: available
+05-03-2020 16:16:42 DEBUG PlatformDependent0:71 - direct buffer constructor: available
+05-03-2020 16:16:42 DEBUG PlatformDependent0:76 - java.nio.Bits.unaligned: available, true
+05-03-2020 16:16:42 DEBUG PlatformDependent0:71 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+05-03-2020 16:16:42 DEBUG PlatformDependent0:76 - java.nio.DirectByteBuffer.<init>(long, int): available
+05-03-2020 16:16:42 DEBUG PlatformDependent:76 - sun.misc.Unsafe: available
+05-03-2020 16:16:42 DEBUG PlatformDependent:76 - -Dio.netty.tmpdir: C:\Users\adchebot\AppData\Local\Temp (java.io.tmpdir)
+05-03-2020 16:16:42 DEBUG PlatformDependent:76 - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+05-03-2020 16:16:42 DEBUG PlatformDependent:76 - -Dio.netty.noPreferDirect: false
+05-03-2020 16:16:42 DEBUG PlatformDependent:76 - -Dio.netty.maxDirectMemory: 7604273152 bytes
+05-03-2020 16:16:42 DEBUG PlatformDependent:76 - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+05-03-2020 16:16:42 DEBUG CleanerJava6:71 - java.nio.ByteBuffer.cleaner(): available
+05-03-2020 16:16:42 INFO  DefaultHttpProxyServer:495 - Starting proxy at address: 0.0.0.0/0.0.0.0:3128
+05-03-2020 16:16:42 DEBUG ServerGroup:136 - Initializing thread pools for TCP with 2 acceptor threads, 8 incoming worker threads, and 8 outgoing worker threads
+05-03-2020 16:16:42 DEBUG MultithreadEventLoopGroup:76 - -Dio.netty.eventLoopThreads: 16
+05-03-2020 16:16:42 DEBUG NioEventLoop:76 - -Dio.netty.noKeySetOptimization: false
+05-03-2020 16:16:42 DEBUG NioEventLoop:76 - -Dio.netty.selectorAutoRebuildThreshold: 512
+05-03-2020 16:16:42 DEBUG PlatformDependent:71 - org.jctools-core.MpscChunkedArrayQueue: available
+05-03-2020 16:16:42 INFO  DefaultHttpProxyServer:524 - Proxy listening with TCP transport
+05-03-2020 16:16:42 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+05-03-2020 16:16:42 DEBUG InternalThreadLocalMap:76 - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+05-03-2020 16:16:42 DEBUG ByteBufUtil:76 - -Dio.netty.allocator.type: unpooled
+05-03-2020 16:16:42 DEBUG ByteBufUtil:76 - -Dio.netty.threadLocalDirectBufferSize: 65536
+05-03-2020 16:16:42 DEBUG ByteBufUtil:76 - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+05-03-2020 16:16:43 DEBUG NetUtil:86 - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+05-03-2020 16:16:43 DEBUG NetUtil:81 - \proc\sys\net\core\somaxconn: 200 (non-existent)
+05-03-2020 16:16:43 INFO  DefaultHttpProxyServer:559 - Proxy started at address: /0:0:0:0:0:0:0:0:3128
+05-03-2020 16:17:00 INFO  Hooks:43 - ------------------------------------------------------------
+05-03-2020 16:17:00 INFO  Hooks:44 - Сценарий 'Test Case 1. Поиск. Результаты поиска' - PASSED
+05-03-2020 16:17:00 INFO  Hooks:45 - ------------------------------------------------------------
+05-03-2020 16:17:01 INFO  Hooks:60 - The video was successfully attached to the report
+05-03-2020 16:17:02 INFO  DefaultHttpProxyServer:436 - Shutting down proxy server immediately (non-graceful)
+05-03-2020 16:17:02 INFO  DefaultHttpProxyServer:469 - Closing all channels (non-graceful)
+05-03-2020 16:17:02 DEBUG ServerGroup:191 - Proxy server unregistered from ServerGroup. No proxy servers remain registered, so shutting down ServerGroup.
+05-03-2020 16:17:02 INFO  ServerGroup:212 - Shutting down server group event loops (non-graceful)
+05-03-2020 16:17:02 DEBUG ServerGroup:242 - Done shutting down server group
+05-03-2020 16:17:02 INFO  DefaultHttpProxyServer:450 - Done shutting down proxy server
