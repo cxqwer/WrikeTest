@@ -6,7 +6,7 @@
   @authAndSendEmail
   Сценарий: Test Case 1. Авторизация. Открытие и отправка формы
 
-    Когда открываем сайт "wrike.com"
+    Когда открываем сайт "https://wrike.com"
     И нажимаем кнопку Get started for free возле кнопки авторизации
     И генерируем email и заполняем поле email
     И нажимаем кнопку Create my Wrike account

@@ -18,7 +18,7 @@ import wrikeTests.pages.ResendPage;
         features = {"src/test/resources/features/"},
         tags = "@all",
         plugin = {"pretty", "io.qameta.allure.cucumber4jvm.AllureCucumber4Jvm"},
-        glue = {"steps", "hooks"})
+        glue = {"wrikeTests/steps", "wrikeTests/hooks"})
 
 public class RunnerTest {
     private static Logger logger = LoggerFactory.getLogger(RunnerTest.class);

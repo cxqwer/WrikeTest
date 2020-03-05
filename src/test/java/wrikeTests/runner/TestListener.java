@@ -7,7 +7,7 @@ import org.openqa.selenium.TakesScreenshot;
 
 import java.nio.charset.StandardCharsets;
 
-public class AllureSelenide {
+public class TestListener {
 
     private static byte[] getScreenshotBytes() {
         return ((TakesScreenshot) WebDriverRunner.getWebDriver()).getScreenshotAs(OutputType.BYTES);
