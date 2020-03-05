@@ -78,6 +78,11 @@
             <artifactId>monte-screen-recorder</artifactId>
             <version>0.7.7.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.automation-remarks</groupId>
+            <artifactId>video-recorder-junit</artifactId>
+            <version>LATEST</version>
+        </dependency>
     </dependencies>
 
     <build>

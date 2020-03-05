@@ -1,9 +1,11 @@
 package simpleTests.hooks;
 
+import com.automation.remarks.junit.VideoRule;
 import io.cucumber.core.api.Scenario;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.qameta.allure.Allure;
+import org.junit.Rule;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -59,5 +61,8 @@ public class Hooks {
             Allure.getLifecycle().addAttachment(scenario.getName() + "-" + dateFormat.format(new Date()), "video/avi", "avi", fileContent);
             logger.info("The video was successfully attached to the report");
     }
+
+    @Rule
+    public VideoRule videoRule = new VideoRule();
 
 }

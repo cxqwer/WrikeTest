@@ -1,5 +1,6 @@
 package simpleTests.steps;
 
+import com.automation.remarks.video.annotations.Video;
 import com.codeborne.selenide.Configuration;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -30,6 +31,7 @@ public class RunnerTest {
     public static YandexMainPage yandexMainPage = new YandexMainPage();
     public static MtsTvHomePage mtsTvHomePage = new MtsTvHomePage();
 
+    @Video
     @BeforeClass
     public static void initSettings() {
 
