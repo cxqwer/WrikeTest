@@ -1,11 +1,9 @@
-# To run tests use .xml file in "src\test\resources\" directory
-# Or command: 'mvn clean test' and 'mvn site' if need to generate Allure-report
+# Simple UI test (maven, cucumber, junit, selenide)
+# Run local or server(docker Selenoid)
 
 # Notes:
-1. For about test framework: junit4
-    - it's too difficult to use Allure report with out testNG. 
-    The difference between testNG and Junit is minor in this task.
-    So I used - testNG. It's easy in my opinion.
-2. UI test only with selenium (without wrappers)
-    - I used selenide only for Allure-reporting. All tests were written only with selenium
+1. For run use maven command mvn clean test with params: -Dbrowser=... -DrunType=local(or docker) -DbrowserVersion=...
+2. Command: mvn site' if need to generate Allure-report
+3. If need run group test -> use cucumber params: -Dcucumber.options="--tags @testsTag" (default @all)
+ 
 
